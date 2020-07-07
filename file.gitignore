@@ -1,0 +1,20 @@
+#  files
+*.doc
+*.docx
+*.pdf
+*.rar
+*.zip
+
+# dirs
+**/_MACOSX/*
+**/__MACOSX/*
+**/__MACOSX/*
+archivez/
+
+# dev related files
+._.DS_Store
+.DS_Store
+# ._**
+
+# multi media
+multi media files
