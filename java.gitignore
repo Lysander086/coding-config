@@ -1,3 +1,4 @@
+# java.gitignore + frontend.gitignore
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -31,3 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 src/main/resources/application-dev.properties
+
+**/node_modules
