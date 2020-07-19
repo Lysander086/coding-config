@@ -12,6 +12,7 @@
     // allow async-await
     "generator-star-spacing": 0,
     // allow debugger during development
+    "no-console": 1,
     "no-debugger": 1,
     "no-unused-vars": [
       1,
@@ -30,13 +31,14 @@
     "no-multiple-empty-lines": [
       0,
       {
-        "max": 100
+        "max": 10
       }
     ],
     //关闭禁止混用tab和空格
     "no-mixed-spaces-and-tabs": [
       0
     ],
-    "space-before-function-paren": "off"
+    "space-before-function-paren": "off",
+    "no-extra-semi": "off"
   }
 }
