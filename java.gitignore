@@ -15,7 +15,7 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+**/.idea
 *.iws
 *.eml
 *.iml
@@ -34,3 +34,4 @@ build/
 src/main/resources/application-dev.properties
 
 **/node_modules
+
