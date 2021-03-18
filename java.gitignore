@@ -1,4 +1,5 @@
 # java.gitignore + frontend.gitignore
+**/.mvn/**
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
