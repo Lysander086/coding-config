@@ -1,4 +1,11 @@
 # java.gitignore + frontend.gitignore
+# gradle related
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# maven 
 **/.mvn/**
 **/archivez/**
 HELP.md
