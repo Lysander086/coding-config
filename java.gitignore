@@ -1,16 +1,15 @@
-*.log
 # java.gitignore + frontend.gitignore
 # secret files
 # front end
 **/.env
-# database file
-*.db
-finance.db
+
+**/.mvn
+mvnw
+mvnw.cmd
 
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
-**/.mvn
 !**/src/main/**
 !**/src/test/**
 
@@ -47,7 +46,6 @@ build/
 **/node_modules
 # files under this dir will all be ignored
 **/archivez
-**/gudytrader
 **/.svn/
 
 
@@ -74,5 +72,3 @@ yarn-error.log*
 *.sw*
 
 package-lock.json
-finance-sys/src/main/resources/finance.db
-angular-heros/toh-pt6.zip
